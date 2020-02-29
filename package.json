@@ -1,0 +1,39 @@
+{
+  "name": "gatsby-starter-milligram",
+  "version": "1.0.0",
+  "description": "This is Gatsby stater using Milligram css frameworks, which is  providing a minimal setup of styles for a fast and clean starting point. Just it! Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code. Kick off your project with. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.",
+  "license": "MIT",
+  "author": "Chaminda Prasad",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.19.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasademc/gatsby-starter-milligram.git"
+  },
+  "keywords": [
+    "gatsby",
+    "starter",
+    "milligram",
+    "chaminda",
+    "prasad"
+  ],
+  "bugs": {
+    "url": "https://github.com/prasademc/gatsby-starter-milligram/issues"
+  },
+  "homepage": "https://github.com/prasademc/gatsby-starter-milligram#readme"
+}
