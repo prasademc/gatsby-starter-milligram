@@ -1,0 +1,15 @@
+.clearfix {
+	&:after {
+		clear: both;
+		content: ' ';
+		display: table;
+	}
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
